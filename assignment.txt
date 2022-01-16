@@ -1,10 +1,8 @@
-dsadad123
+Basic Terms which used in Git
 
-azhar
-
-
-Mahar
-
-Karachi
-
-sindh
+git status
+git clone 
+git add .
+git commit -m "type your title or message"
+git push
+git pull
